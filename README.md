@@ -1,6 +1,6 @@
 # Block Azure DNS
 
-A DNS server for blocking ads and unwanted websites.
+A DNS server for blocking azure and apple classroom.
 
 ## Setup
 
