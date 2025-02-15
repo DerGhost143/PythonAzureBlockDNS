@@ -22,6 +22,7 @@
     "valid.apple.com",
     "doh.dns.apple.com",
     "iprofiles.apple.com",
+    "intune.microsoft.com",
     "azure.com"
   ]
 }
