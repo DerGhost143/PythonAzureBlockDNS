@@ -1,4 +1,4 @@
-# Block ADs DNS
+# Block Azure DNS
 
 A DNS server for blocking ads and unwanted websites.
 
