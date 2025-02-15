@@ -1,0 +1,7 @@
+{
+  "blacklist": [
+    "youtube.com",
+    "github.com",
+    "tracking.example.org"
+  ]
+}
