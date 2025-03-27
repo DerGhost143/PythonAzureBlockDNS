@@ -9,8 +9,8 @@ A DNS server for blocking azure and apple classroom.
 
 2. **Configure ports (optional):**
    - By default, the following ports are used:
-     - **TCP 54**
-     - **UDP 54**
+     - **TCP 53**
+     - **UDP 53**
    - If needed, you can change the ports in the settings.
 
 ## Installation & Start
